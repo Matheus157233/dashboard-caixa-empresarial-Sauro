@@ -1,11 +1,4 @@
 {
   "demo_emp": [],
-  "SAURO": [
-    {
-      "id": 1786493712864,
-      "descricao": "PAGAMENTO DO ALUGUEL",
-      "valor": 750.0,
-      "vencimento": "2026-08-13"
-    }
-  ]
+  "SAURO": []
 }
